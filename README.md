@@ -1,5 +1,5 @@
 ## Hi, I'm Biplob 👋
-[<img src='[https://github.com/DeveloperBiplob/DeveloperBiplob/blob/main/img/bg.jpg](https://github.com/DeveloperBiplob/DeveloperBiplob/blob/main/img/bg.jpg)?raw=true' alt='Biplob'>]([https://github.com/shovoalways/](https://github.com/DeveloperBiplob/))
+[<img src='[https://github.com/DeveloperBiplob/DeveloperBiplob/blob/main/img/bg.jpg?raw=true](https://github.com/DeveloperBiplob/DeveloperBiplob/blob/main/img/bg.jpg?raw=true)?raw=true' alt='Biplob'>]([https://github.com/DeveloperBiplob/](https://github.com/DeveloperBiplob/))
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
