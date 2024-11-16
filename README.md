@@ -1,5 +1,5 @@
 ## Hi, I'm Biplob 👋
-[<img style="width:100%;height:300px;object-fit: contain" src='https://yt3.googleusercontent.com/svNwOX79TuNWho0xpujloS7RJeWIFIaQ1Dh5HTMBLdLrulLoJHZ6IFkttJ_oJaeiGH_BT8Pzow=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj' alt='Biplob'>]([https://github.com/DeveloperBiplob/](https://github.com/DeveloperBiplob/))
+[<img src='https://yt3.googleusercontent.com/svNwOX79TuNWho0xpujloS7RJeWIFIaQ1Dh5HTMBLdLrulLoJHZ6IFkttJ_oJaeiGH_BT8Pzow=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj' alt='Biplob'>]([https://github.com/DeveloperBiplob/](https://github.com/DeveloperBiplob/))
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
