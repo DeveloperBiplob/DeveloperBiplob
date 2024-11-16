@@ -19,8 +19,6 @@ Hello. This is Biplob, A full Stack Web Developer .My career objective is to lev
 ✅ HTML5 / CSS3 / SASS / Bootstrap / Tailwind <br>
 ✅ Photoshop / Illustrator <br>
 
-//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovoalways&layout=compact)
-
 
 ## ☕ Connect with me!
 [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100009592844207&mibextid=ZbWKwL)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/instagram.png?raw=true' alt='instagram' height='40'>](https://www.instagram.com/shovoalways/)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/shovoalways)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/youtube.png?raw=true' alt='YouTube' height='40'>](https://www.youtube.com/@learnwithbiplob6015)  [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/shovoalways/)  
@@ -28,4 +26,4 @@ Hello. This is Biplob, A full Stack Web Developer .My career objective is to lev
 
 
 ## 📧 For Business Inquiries 
-✅  ► shovoalways@gmail.com
+✅  ► developerbiplob.bd@gmail.com
